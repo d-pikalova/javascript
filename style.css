@@ -1,0 +1,9 @@
+.hide {
+  display: none;
+}
+
+.car {
+  width: 50px;
+  height: 100;
+  background: transparent url("./car.png") center / cover no-repeat;
+}
